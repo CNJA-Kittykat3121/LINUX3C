@@ -1,0 +1,4 @@
+README.txt tiene los permisos: 4,2,0,4,2,0,4,0,0  6 - 6 - 4
+docs tiene los permisos: 4,2,1,4,2,1,4,0,1   7 - 7 - 5
+logs tiene los permisos: 4,2,1,4,2,1,4,0,1   7 - 7 - 5
+src tiene los permisos: 4,2,1,4,2,1,4,0,1    7 - 7 - 5
