@@ -1,4 +1,4 @@
-<img src="01-ejercicio/lah-Captura.png">
+<img src="../05_lah-Captura.png">
 
 | Archivo | Permisos Delegados | Notacion Octal |
 | :------- | :------------------ | :--------------: |
