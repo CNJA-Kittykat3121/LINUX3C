@@ -1,0 +1,8 @@
+#!/bin/bash - intérprete
+
+read - para leer
+-p - para colocar un echo y lectura en la misma línea (al ser colocado como parámetro de read)
+echo - para mostrarle un mensaje al usuario
+nomVar - para declarar una variable
+$nomVar - para mandar a llamar una variable
+
